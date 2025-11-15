@@ -9,3 +9,8 @@
  2. Создать ключ 2GIS, получить можно на https://dev.2gis.ru/api, ключ вводим в компонент Map2GIS.jsx.
  3. Запустить npm run dev в папке backend.
  4. Запустить npm start в папке frontend.
+
+Стек:
+Фронтенд - React
+Бекенд - NodeJS, ORM Sequelize
+База данных - Postgres
