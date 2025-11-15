@@ -11,6 +11,6 @@
  4. Запустить npm start в папке frontend.
 
 Стек:
-Фронтенд - React
-Бекенд - NodeJS, ORM Sequelize
-База данных - Postgres
+1. Фронтенд - React
+2. Бекенд - NodeJS, ORM Sequelize
+3. База данных - Postgres
